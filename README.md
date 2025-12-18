@@ -2,7 +2,7 @@
 
 # memfill
 
-Simple memory filling utility for Windows.
+Simple memory filling tool for Windows.
 
 memfill: console executable
 
